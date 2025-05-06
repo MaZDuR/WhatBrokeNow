@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff00ccffWhat|cffff0000Broke|cff00ccffNow|r?
+## Author: MaZDuR
+## Notes: Simple addon to check for the existence of "important" addons.
+## SavedVariables: WBNOptions
+## Version: 0.1-prerelease
+
+WhatBrokeNow.lua
